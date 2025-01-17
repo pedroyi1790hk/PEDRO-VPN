@@ -10,7 +10,7 @@
 ✅ *ᴄᴏɴᴇxᴀ̃ᴏ ᴠɪᴀ ᴀᴘʟɪᴄᴀᴛɪᴠᴏ*✅\n
 TENHA A MELHOR INTERNET ILIMITADA ABRINDO TODOS APP DE BANCOS E MUITO MAIS... ONLINE.",
     "Sms": "",
-    "UrlUpdate": "https://pastbin.hgtunnel.online/paste.php?raw&id=85",
+    "UrlUpdate": "https://raw.githubusercontent.com/pedroyi1790hk/PEDRO-VPN/refs/heads/main/README.md",
   "logoonline": "",
 "fundoonline":"",
     "EmailFeedback": "",

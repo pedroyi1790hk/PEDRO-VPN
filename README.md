@@ -1,6 +1,6 @@
 {
 
-    "Version": "4",
+    "Version": "5",
     "ReleaseNotes": "
   🔰Funcionando🔰\n
 🔰🔵𝗧𝗜𝗠    ONLINE 🟢\n
@@ -10,7 +10,7 @@
 ✅ *ᴄᴏɴᴇxᴀ̃ᴏ ᴠɪᴀ ᴀᴘʟɪᴄᴀᴛɪᴠᴏ*✅\n
 TENHA A MELHOR INTERNET ILIMITADA ABRINDO TODOS APP DE BANCOS E MUITO MAIS... ONLINE.",
     "Sms": "",
-    "UrlUpdate": "",
+    "UrlUpdate": "https://raw.githubusercontent.com/pedroyi1790hk/PEDRO-VPN/refs/heads/main/README.md",
   "logoonline": "",
 "fundoonline":"",
     "EmailFeedback": "",

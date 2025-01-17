@@ -1,6 +1,6 @@
 {
 
-    "Version": "4",
+    "Version": "5",
     "ReleaseNotes": "
   🔰Funcionando🔰\n
 🔰🔵𝗧𝗜𝗠    ONLINE 🟢\n
